@@ -1,0 +1,108 @@
+Base path: /opt/Unity/Editor/Data
+Cmd: getPlatforms
+Cmd: compileSnippet
+  api=15 type=0 insize=7480 outsize=14551 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP ok=1
+Cmd: disassembleShader
+  api=6 insize=14551 outsize=14551 ok=1
+Cmd: compileSnippet
+  api=15 type=0 insize=7480 outsize=16224 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DYNAMICLIGHTMAP_OFF VERTEXLIGHT_ON pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP ok=1
+Cmd: disassembleShader
+  api=6 insize=16224 outsize=16224 ok=1
+Cmd: compileSnippet
+  api=15 type=1 insize=7480 outsize=0 kw=DIRECTIONAL LIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP ok=1
+Cmd: disassembleShader
+  api=6 insize=0 outsize=45 ok=1
+Cmd: compileSnippet
+  api=15 type=0 insize=4284 outsize=6369 kw=DIRECTIONAL pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP ok=1
+Cmd: disassembleShader
+  api=6 insize=6369 outsize=6369 ok=1
+Cmd: compileSnippet
+  api=15 type=0 insize=4284 outsize=7335 kw=POINT_COOKIE pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP ok=1
+Cmd: disassembleShader
+  api=6 insize=7335 outsize=7335 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=4284 outsize=4809 kw=DIRECTIONAL SHADOWS_SCREEN pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP ok=1
+Cmd: disassembleShader
+  api=1 insize=4809 outsize=4809 ok=1
+Cmd: compileSnippet
+  api=15 type=0 insize=4284 outsize=7457 kw=DIRECTIONAL_COOKIE SHADOWS_SCREEN pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP ok=1
+Cmd: disassembleShader
+  api=6 insize=7457 outsize=7457 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=4284 outsize=5688 kw=SPOT SHADOWS_DEPTH SHADOWS_SOFT pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP ok=1
+Cmd: disassembleShader
+  api=1 insize=5688 outsize=5688 ok=1
+Cmd: compileSnippet
+  api=15 type=0 insize=4284 outsize=8713 kw=POINT SHADOWS_CUBE SHADOWS_SOFT pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP ok=1
+Cmd: disassembleShader
+  api=6 insize=8713 outsize=8713 ok=1
+Cmd: compileSnippet
+  api=15 type=1 insize=4284 outsize=0 kw=DIRECTIONAL pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP ok=1
+Cmd: disassembleShader
+  api=6 insize=0 outsize=45 ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=4284 outsize=0 kw=POINT_COOKIE pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP ok=1
+Cmd: disassembleShader
+  api=1 insize=0 outsize=45 ok=1
+Cmd: compileSnippet
+  api=15 type=1 insize=4284 outsize=0 kw=DIRECTIONAL_COOKIE pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP ok=1
+Cmd: disassembleShader
+  api=6 insize=0 outsize=45 ok=1
+Cmd: compileSnippet
+  api=15 type=1 insize=4284 outsize=0 kw=DIRECTIONAL_COOKIE SHADOWS_SCREEN pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP ok=1
+Cmd: disassembleShader
+  api=6 insize=0 outsize=45 ok=1
+Cmd: compileSnippet
+  api=15 type=1 insize=4284 outsize=0 kw=POINT SHADOWS_CUBE pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP ok=1
+Cmd: disassembleShader
+  api=6 insize=0 outsize=45 ok=1
+Cmd: compileSnippet
+  api=15 type=1 insize=4284 outsize=0 kw=POINT SHADOWS_CUBE SHADOWS_SOFT pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP ok=1
+Cmd: disassembleShader
+  api=6 insize=0 outsize=45 ok=1
+Cmd: compileSnippet
+  api=15 type=0 insize=6590 outsize=6719 kw=LIGHTMAP_OFF DYNAMICLIGHTMAP_OFF UNITY_HDR_ON pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP ok=1
+Cmd: disassembleShader
+  api=6 insize=6719 outsize=6719 ok=1
+Cmd: compileSnippet
+  api=15 type=1 insize=6590 outsize=0 kw=LIGHTMAP_OFF DYNAMICLIGHTMAP_OFF UNITY_HDR_ON pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP ok=1
+Cmd: disassembleShader
+  api=6 insize=0 outsize=45 ok=1
+Cmd: disassembleShader
+  api=1 insize=12210 outsize=12210 ok=1
+Cmd: disassembleShader
+  api=1 insize=13371 outsize=13371 ok=1
+Cmd: disassembleShader
+  api=1 insize=0 outsize=45 ok=1
+Cmd: disassembleShader
+  api=1 insize=4314 outsize=4314 ok=1
+Cmd: disassembleShader
+  api=1 insize=4750 outsize=4750 ok=1
+Cmd: disassembleShader
+  api=1 insize=4559 outsize=4559 ok=1
+Cmd: disassembleShader
+  api=1 insize=5017 outsize=5017 ok=1
+Cmd: disassembleShader
+  api=1 insize=5469 outsize=5469 ok=1
+Cmd: disassembleShader
+  api=6 insize=9307 outsize=9307 ok=1
+Cmd: disassembleShader
+  api=1 insize=6411 outsize=6411 ok=1
+Cmd: disassembleShader
+  api=6 insize=0 outsize=45 ok=1
+Cmd: disassembleShader
+  api=1 insize=0 outsize=45 ok=1
+Cmd: disassembleShader
+  api=6 insize=0 outsize=45 ok=1
+Cmd: disassembleShader
+  api=1 insize=0 outsize=45 ok=1
+Cmd: disassembleShader
+  api=1 insize=0 outsize=45 ok=1
+Cmd: disassembleShader
+  api=6 insize=0 outsize=45 ok=1
+Cmd: disassembleShader
+  api=1 insize=6980 outsize=6980 ok=1
+Cmd: disassembleShader
+  api=6 insize=0 outsize=45 ok=1
+
+Quitting shader compiler process
